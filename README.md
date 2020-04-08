@@ -13,4 +13,9 @@ The state wise data was downloaded from Kaggle - Covid 19 India database:
 COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE
 [https://github.com/CSSEGISandData/COVID-19]
 
-## Contact:
+### Copyrisght
+
+The script in this rep can be freely used and shared as long as the author and copyright information in the header remain intact and proper citation of this work is expected.
+
+### Contact:
+sourish@cmi.ac.in
