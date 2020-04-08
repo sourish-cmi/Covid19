@@ -15,7 +15,7 @@ COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE
 
 ### Copyrisght
 
-The script in this rep can be freely used and shared as long as the author and copyright information in the header remain intact and proper citation of this work is expected.
+The script in this rep can be freely used and shared as long as the author and copyright information in the header remain intact and proper citation of this work is mentioned.
 
 ### Contact:
 sourish@cmi.ac.in
