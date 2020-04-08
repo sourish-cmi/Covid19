@@ -9,3 +9,6 @@ I have used the SIR implementation of Sherry Towers. For more detail about sir_f
 
 The state wise data was downloaded from Kaggle - Covid 19 India database: 
 [https://www.kaggle.com/sudalairajkumar/covid19-in-india]
+
+COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE
+[https://github.com/CSSEGISandData/COVID-19]
