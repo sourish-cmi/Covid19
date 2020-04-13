@@ -313,7 +313,7 @@ colnames(R0_statewise)<-c("State/UT","R0","Lower","Upper")
 
 
 for(i in 1:length(st_ut)){
-  i<-24
+  #i<-24
   tryCatch(
     {
       data_sub<-subset(data_state,State.UnionTerritory==st_ut[i])
