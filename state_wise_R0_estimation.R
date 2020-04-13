@@ -45,6 +45,14 @@ dts1<-dts<-colnames(data)[-c(1:4)]
 for(j in 1:length(dts))dts1[j]<-strsplit(dts[j],"X")[[1]][2]
 dats<-as.Date(dts1,format = "%m.%d.%y")
 
+### Population data
+nms<-c("China","India","US","Iran","SouthKorea","Japan","Italy","France","Germany","Spain")
+
+population<-c(1401754280,1359772087,329448153,83279228,51780579,126010000,60243406,67064000,83149300,47100396)
+
+names(population)<-nms
+
+
 
 china_data<-data[data$Country.Region=='China',]
 
